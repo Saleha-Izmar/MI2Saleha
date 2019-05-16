@@ -1,0 +1,25 @@
+/**
+ * @author Saleha Izmar
+ *
+ */
+ 
+body{
+    background-color: gray;
+    }
+
+main{
+    margin: 8%;
+    background-color: aliceblue;
+    width: 1200px;
+    height: 500px;
+    width: 1200px;
+    }
+#bol{
+    position: fixed;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 10px;
+    top: 400px;
+    left: 150px;
+}
