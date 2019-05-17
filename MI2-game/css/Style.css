@@ -23,3 +23,27 @@ main{
     top: 400px;
     left: 150px;
 }
+#obstacle1{
+    position: fixed;
+    width: 20px;
+    height: 200px;
+    background-color: red;
+    top: 120 px;
+    right: 200px;
+}
+#obstacle2{
+    position: fixed;
+    width: 20px;
+    height: 200px;
+    background-color: red;
+    top: 120 px;
+    right: 200px;
+}
+#obstacle3{
+    position: fixed;
+    width: 20px;
+    height: 200px;
+    background-color: red;
+    top: 120 px;
+    right: 200px;
+}
